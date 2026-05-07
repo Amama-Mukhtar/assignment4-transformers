@@ -1,4 +1,4 @@
-# Assignment 4 — Transformers, Attention, SHAP & LIME
+# Assignment 4  Transformers, Attention, SHAP & LIME
 
 Binary sentiment classification on the Amazon Polarity dataset using fine-tuned BERT, with attention visualisation and explainability via SHAP and LIME.
 
@@ -8,8 +8,8 @@ Binary sentiment classification on the Amazon Polarity dataset using fine-tuned 
 
 ```
 assignment4/
-├── assignment4_master.ipynb   # Single master notebook (all steps)
-├── Assignment4_Report.pdf     # Full written report (12 pages)
+├── 23F-0049_NLP_A4_BS(AI)-6A.ipynb   # Single master notebook (all steps)
+├── 23F-0049_NLP_A4_BS(AI)-6A.pdf     # Full written report (12 pages)
 ├── README.md                  # This file
 └── data/                      # Auto-created by notebook
     ├── train.csv
@@ -29,18 +29,18 @@ assignment4/
 
 ## How to Run
 
-### Step 1 — Open in Google Colab
+### Step 1  Open in Google Colab
 
-Upload `assignment4_master.ipynb` to [https://colab.research.google.com](https://colab.research.google.com)  
+Upload `23F-0049_NLP_A4_BS(AI)-6A.ipynb` to [https://colab.research.google.com](https://colab.research.google.com)  
 or open it directly from Google Drive.
 
-### Step 2 — Enable GPU
+### Step 2 Enable GPU
 
 ```
 Runtime > Change runtime type > Hardware accelerator > GPU (T4)
 ```
 
-### Step 3 — Run All Cells
+### Step 3  Run All Cells
 
 ```
 Runtime > Run all
